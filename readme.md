@@ -15,4 +15,4 @@
 </div>
 
 ### 1. Home Page
-![image](https://github.com/sauravkumarverma25/currency_converter/blob/main/currency_convert_homnepage.png)
+![image](https://github.com/sauravkumarverma25/currency_converter/blob/main/Screenshot%202024-07-10%20153157.png)
